@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Grace Njuguna
+- 👋 Hi, I’m Grace
 - 👀 I’m interested in Mobile app development
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on mobile app projects
